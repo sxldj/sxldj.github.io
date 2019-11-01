@@ -33,39 +33,6 @@
   place: Seattle, USA
   sub: CV
 
-- title: ISCA
-  year: 2020
-  id: isca2020
-  link: https://iscaconf.org/isca2020/
-  deadline: '2019-11-19 23:59:59'
-  timezone: Etc/GMT-2
-  date: May 30 - June 3, 2020
-  place: Valencia, Spain
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
-
-- title: MBMV
-  year: 2020
-  id: mbmv2020
-  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
-  deadline: '2019-12-06 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 19-20, 2020
-  place: Stuttgart, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
-
-- title: SCOPES
-  year: 2020
-  id: scopes20
-  link: https://scopesconf.org/scopes-20/
-  deadline: '2020-02-14 23:59:00'
-  timezone: Etc/GMT
-  date: May 25-26, 2020
-  place: Sankt Goar, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-20/dates.php'>HTML</a>.
-
 - title: AAMAS
   year: 2020
   id: aamas20
@@ -77,6 +44,17 @@
   place: Auckland, New Zealand
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
+
+- title: ISCA
+  year: 2020
+  id: isca2020
+  link: https://iscaconf.org/isca2020/
+  deadline: '2019-11-19 23:59:59'
+  timezone: Etc/GMT-2
+  date: May 30 - June 3, 2020
+  place: Valencia, Spain
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
 
 - title: ECAI
   year: 2020
@@ -122,6 +100,17 @@
   date: May 11-16, 2020
   place: Marseille, France
   sub: NLP
+
+- title: MBMV
+  year: 2020
+  id: mbmv2020
+  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
+  deadline: '2019-12-06 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 19-20, 2020
+  place: Stuttgart, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
 
 - title: ACL
   year: 2020
@@ -207,6 +196,17 @@
   place: Vienna, Austria
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+
+- title: SCOPES
+  year: 2020
+  id: scopes20
+  link: https://scopesconf.org/scopes-20/
+  deadline: '2020-02-14 23:59:00'
+  timezone: Etc/GMT
+  date: May 25-26, 2020
+  place: Sankt Goar, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-20/dates.php'>HTML</a>.
 
 - title: IROS
   year: 2020
