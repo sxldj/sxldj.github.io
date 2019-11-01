@@ -10,6 +10,7 @@
   date: June 14-19, 2020
   place: Seattle, USA
   sub: CV
+
 - title: RTAS
   year: 2020
   id: rtas20
@@ -435,6 +436,7 @@
   date: MAY 17-20, 2020
   place: Seville, Spain
   sub: ES
+  note: '<b>NOTE</b>: More info <a href=''https://www.iscas2020.org/sites/default/files/iscas_2020_cfp_home.pdf''>here</a>.'
 
 - title: ASPDAC
   year: 2020
@@ -445,6 +447,7 @@
   date: Jan 13-16, 2020
   place: Beijing, China
   sub: ES
+  note: '<b>NOTE</b>: Mandatory abstract deadline on July 5, 2019. More info <a href=''https://aspdac2020.github.io/aspdac20/cfp/index.html''>here</a>.'
 
 - title: ASAP
   year: 2019
@@ -455,6 +458,7 @@
   date: July 15-17, 2019
   place: New York, USA
   sub: ES
+  note: '<b>NOTE</b>: More info <a href=''https://asap2019.csl.cornell.edu/cfp.html''>here</a>.'
 
 - title: ECCV
   year: 2020
